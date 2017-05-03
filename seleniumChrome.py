@@ -1,6 +1,3 @@
-import os
-from selenium import webdriver
-
 ##########################
 ##        Author        ##
 ##  Beren İlkim Ceylan  ##
@@ -8,6 +5,8 @@ from selenium import webdriver
 ##     @berenceylan     ##
 ##########################
 
+import os
+from selenium import webdriver
 
 # -- Chrome options -- #
 chromedriver = "path\\to\\your\\chromedriver.exe"
