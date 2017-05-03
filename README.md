@@ -2,9 +2,9 @@
 
 An example to show how selenium library works with chrome and how to add extra options such as,
 
-safe browsing,
-different download directory,
-disable download prompt
++ safe browsing,
++ different download directory,
++ disable download prompt
 
 Happy testing!
 
