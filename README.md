@@ -12,3 +12,5 @@ Happy testing!
 ## Requirements:
 + pip install selenium
 
+* [Chrome Driver](https://chromedriver.storage.googleapis.com/index.html?path=2.9/) - Check the latest version
+
