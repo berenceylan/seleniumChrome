@@ -26,7 +26,7 @@ driver = webdriver.Chrome(executable_path=chromedriver, chrome_options=options)
 driver.get("http://google.com")
 
 #Search bar
-driver.find_element_by_id("q").send_keys(username)
+driver.find_element_by_id("q").send_keys("How to test with selenium")
 
 #Click button
 driver.find_element_by_name("btnK").click()
